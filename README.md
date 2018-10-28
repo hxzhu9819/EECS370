@@ -16,8 +16,6 @@ $$
 
 ### Floating point arithmetic
 
-![image-20181028162905886](/Users/zhuhaoxuan/Library/Mobile Documents/com~apple~CloudDocs/UM/EECS370/MIDREVIEW/Review Notes.assets/image-20181028162905886.png)
-
 * 31: Positive(0) or Negative(1)
 
 * 30-23: Exponent
