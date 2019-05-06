@@ -1,6 +1,6 @@
 # EECS370 MID1 Review Sheets
 
-##Figure Convention
+## Figure Convention
 
 ### Two's compliment
 
